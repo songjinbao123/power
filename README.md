@@ -1,2 +1,1 @@
-# power
-wait desc
+
